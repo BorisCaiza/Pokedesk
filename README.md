@@ -1,2 +1,3 @@
 # Pokedesk
-pokedesk in react
+
+Pokedesk made in React
